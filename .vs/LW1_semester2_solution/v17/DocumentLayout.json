@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rmaln\\source\\repos\\LW1_semester2_solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7072D1CE-DE2E-41BC-B642-034533A99221}|LW1_semester2_project\\LW1_semester2_project.vcxproj|C:\\Users\\rmaln\\source\\repos\\LW1_semester2_solution\\LW1_semester2_project\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7072D1CE-DE2E-41BC-B642-034533A99221}|LW1_semester2_project\\LW1_semester2_project.vcxproj|solutionrelative:LW1_semester2_project\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\rmaln\\source\\repos\\LW1_semester2_solution\\LW1_semester2_project\\main.cpp",
+              "RelativeDocumentMoniker": "LW1_semester2_project\\main.cpp",
+              "ToolTip": "C:\\Users\\rmaln\\source\\repos\\LW1_semester2_solution\\LW1_semester2_project\\main.cpp",
+              "RelativeToolTip": "LW1_semester2_project\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-17T12:25:38.401Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
